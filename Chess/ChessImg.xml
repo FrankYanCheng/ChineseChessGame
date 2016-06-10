@@ -1,0 +1,37 @@
+﻿<ChessRule>
+  <id_img id="1" img="Img/KING(Red).png"/>
+  <id_img id="2" img="Img/GUARD(Red).png"/>
+  <id_img id="3" img="Img/GUARD(Red).png"/>
+  <id_img id="4" img="Img/BISHOP(Red).png"/>
+  <id_img id="5" img="Img/BISHOP(Red).png"/>
+  <id_img id="6" img="Img/KNIGHT(Red).png"/>
+  <id_img id="7" img="Img/KNIGHT(Red).png"/>
+  <id_img id="8" img="Img/CANNON(Red).png"/>
+  <id_img id="9" img="Img/CANNON(Red).png"/>
+  <id_img id="10" img="Img/ROOK(Red).png"/>
+  <id_img id="11" img="Img/ROOK(Red).png"/>
+  <id_img id="12" img="Img/PAWN(Red).png"/>
+  <id_img id="13" img="Img/PAWN(Red).png"/>
+  <id_img id="14" img="Img/PAWN(Red).png"/>
+  <id_img id="15" img="Img/PAWN(Red).png"/>
+  <id_img id="16" img="Img/PAWN(Red).png"/>
+
+
+  <id_img id="-1" img="Img/KING(Black).png"/>
+  <id_img id="-2" img="Img/GUARD(Black).png"/>
+  <id_img id="-3" img="Img/GUARD(Black).png"/>
+  <id_img id="-4" img="Img/BISHOP(Black).png"/>
+  <id_img id="-5" img="Img/BISHOP(Black).png"/>
+  <id_img id="-6" img="Img/KNIGHT(Black).png"/>
+  <id_img id="-7" img="Img/KNIGHT(Black).png"/>
+  <id_img id="-8" img="Img/CANNON(Black).png"/>
+  <id_img id="-9" img="Img/CANNON(Black).png"/>
+  <id_img id="-10" img="Img/ROOK(Black).png"/>
+  <id_img id="-11" img="Img/ROOK(Black).png"/>
+  <id_img id="-12" img="Img/PAWN(Black).png"/>
+  <id_img id="-13" img="Img/PAWN(Black).png"/>
+  <id_img id="-14" img="Img/PAWN(Black).png"/>
+  <id_img id="-15" img="Img/PAWN(Black).png"/>
+  <id_img id="-16" img="Img/PAWN(Black).png"/>
+
+</ChessRule>

@@ -1,0 +1,159 @@
+﻿
+<scorelist>
+<evaluate id="1" score="10000"/>
+<evaluate id="2" score="226"/>
+<evaluate id="3" score="226"/>
+<evaluate id="4" score="210"/>
+<evaluate id="5" score="210"/>
+<evaluate id="6" score="439"/>
+<evaluate id="7" score="439"/>
+<evaluate id="8" score="442"/>
+<evaluate id="9" score="442"/>
+<evaluate id="10" score="989"/>
+<evaluate id="11" score="989"/>
+<evaluate id="12" score="55"/>
+<evaluate id="13" score="55"/>
+<evaluate id="14" score="55"/>
+<evaluate id="15" score="55"/>
+<evaluate id="16" score="55"/>
+  
+<evaluate id="-1" score="10000"/>
+<evaluate id="-2" score="226"/>
+<evaluate id="-3" score="226"/>
+<evaluate id="-4" score="210"/>
+<evaluate id="-5" score="210"/>
+<evaluate id="-6" score="439"/>
+<evaluate id="-7" score="439"/>
+<evaluate id="-8" score="442"/>
+<evaluate id="-9" score="442"/>
+<evaluate id="-10" score="989"/>
+<evaluate id="-11" score="989"/>
+<evaluate id="-12" score="55"/>
+<evaluate id="-13" score="55"/>
+<evaluate id="-14" score="55"/>
+<evaluate id="-15" score="55"/>
+<evaluate id="-16" score="55"/>
+
+  <!--Score for pawn-->
+  <pawn_black position="116" score="0"/>
+  <pawn_black position="117" score="0"/>
+  <pawn_black position="118" score="2"/>
+  <pawn_black position="119" score="0"/>
+  <pawn_black position="120" score="0"/>
+  <pawn_black position="121" score="0"/>
+  <pawn_black position="122" score="2"/>
+  <pawn_black position="123" score="0"/>
+  <pawn_black position="124" score="0"/>
+
+  <pawn_black position="132" score="0"/>
+  <pawn_black position="133" score="0"/>
+  <pawn_black position="134" score="1"/>
+  <pawn_black position="135" score="0"/>
+  <pawn_black position="136" score="0"/>
+  <pawn_black position="137" score="0"/>
+  <pawn_black position="138" score="1"/>
+  <pawn_black position="139" score="0"/>
+  <pawn_black position="140" score="0"/>
+
+  <pawn_black position="148" score="1"/>
+  <pawn_black position="149" score="1"/>
+  <pawn_black position="150" score="1"/>
+  <pawn_black position="151" score="1"/>
+  <pawn_black position="152" score="1"/>
+  <pawn_black position="153" score="1"/>
+  <pawn_black position="154" score="1"/>
+  <pawn_black position="155" score="1"/>
+  <pawn_black position="156" score="1"/>
+
+  <pawn_black position="164" score="1"/>
+  <pawn_black position="165" score="2"/>
+  <pawn_black position="166" score="3"/>
+  <pawn_black position="167" score="3"/>
+  <pawn_black position="168" score="3"/>
+  <pawn_black position="169" score="3"/>
+  <pawn_black position="170" score="3"/>
+  <pawn_black position="171" score="2"/>
+  <pawn_black position="172" score="1"/>
+
+  <pawn_black position="180" score="1"/>
+  <pawn_black position="181" score="2"/>
+  <pawn_black position="182" score="3"/>
+  <pawn_black position="183" score="4"/>
+  <pawn_black position="184" score="4"/>
+  <pawn_black position="185" score="4"/>
+  <pawn_black position="186" score="3"/>
+  <pawn_black position="187" score="2"/>
+  <pawn_black position="188" score="1"/>
+
+  <pawn_black position="196" score="1"/>
+  <pawn_black position="197" score="2"/>
+  <pawn_black position="198" score="3"/>
+  <pawn_black position="199" score="4"/>
+  <pawn_black position="200" score="4"/>
+  <pawn_black position="201" score="4"/>
+  <pawn_black position="202" score="3"/>
+  <pawn_black position="203" score="2"/>
+  <pawn_black position="204" score="1"/>
+
+
+  <pawn_red position="132" score="0"/>
+  <pawn_red position="133" score="0"/>
+  <pawn_red position="134" score="2"/>
+  <pawn_red position="135" score="0"/>
+  <pawn_red position="136" score="0"/>
+  <pawn_red position="137" score="0"/>
+  <pawn_red position="138" score="2"/>
+  <pawn_red position="139" score="0"/>
+  <pawn_red position="140" score="0"/>
+
+  <pawn_red position="116" score="0"/>
+  <pawn_red position="117" score="0"/>
+  <pawn_red position="118" score="1"/>
+  <pawn_red position="119" score="0"/>
+  <pawn_red position="120" score="0"/>
+  <pawn_red position="121" score="0"/>
+  <pawn_red position="122" score="1"/>
+  <pawn_red position="123" score="0"/>
+  <pawn_red position="124" score="0"/>
+
+  <pawn_red position="100" score="1"/>
+  <pawn_red position="101" score="1"/>
+  <pawn_red position="102" score="1"/>
+  <pawn_red position="103" score="1"/>
+  <pawn_red position="104" score="1"/>
+  <pawn_red position="105" score="1"/>
+  <pawn_red position="106" score="1"/>
+  <pawn_red position="107" score="1"/>
+  <pawn_red position="108" score="1"/>
+
+  <pawn_red position="84" score="1"/>
+  <pawn_red position="85" score="2"/>
+  <pawn_red position="86" score="3"/>
+  <pawn_red position="87" score="3"/>
+  <pawn_red position="88" score="3"/>
+  <pawn_red position="89" score="3"/>
+  <pawn_red position="90" score="3"/>
+  <pawn_red position="91" score="2"/>
+  <pawn_red position="92" score="1"/>
+
+  <pawn_red position="68" score="1"/>
+  <pawn_red position="69" score="2"/>
+  <pawn_red position="70" score="3"/>
+  <pawn_red position="71" score="4"/>
+  <pawn_red position="72" score="4"/>
+  <pawn_red position="73" score="4"/>
+  <pawn_red position="74" score="3"/>
+  <pawn_red position="75" score="2"/>
+  <pawn_red position="76" score="1"/>
+
+  <pawn_red position="52" score="1"/>
+  <pawn_red position="53" score="2"/>
+  <pawn_red position="54" score="3"/>
+  <pawn_red position="55" score="4"/>
+  <pawn_red position="56" score="4"/>
+  <pawn_red position="57" score="4"/>
+  <pawn_red position="58" score="3"/>
+  <pawn_red position="59" score="2"/>
+  <pawn_red position="60" score="1"/>
+
+</scorelist>

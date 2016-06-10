@@ -1,0 +1,35 @@
+<ChessManual>
+  <position  id="52" value="10"/>
+  <position  id="53" value="6"/>
+  <position  id="54" value="4"/>
+  <position  id="55" value="2"/>
+  <position  id="56" value="1"/>
+  <position  id="57" value="3"/>
+  <position  id="58" value="5"/>
+  <position  id="59" value="7"/>
+  <position  id="60" value="11"/>
+  <position  id="84" value="8"/>
+  <position  id="90" value="9"/>
+  <position  id="100" value="12"/>
+  <position  id="102" value="13"/>
+  <position  id="104" value="14"/>
+  <position  id="106" value="15"/>
+  <position  id="108" value="16"/>
+
+  <position  id="148" value="-12"/>
+  <position  id="150" value="-13"/>
+  <position  id="152" value="-14"/>
+  <position  id="154" value="-15"/>
+  <position  id="156" value="-16"/>
+  <position  id="165" value="-8"/>
+  <position  id="171" value="-9"/>
+  <position  id="196" value="-10"/>
+  <position  id="197" value="-6"/>
+  <position  id="198" value="-4"/>
+  <position  id="199" value="-2"/>
+  <position  id="200" value="-1"/>
+  <position  id="201" value="-3"/>
+  <position  id="202" value="-5"/>
+  <position  id="203" value="-7"/>
+  <position  id="204" value="-11"/>
+  </ChessManual>
