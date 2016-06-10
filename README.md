@@ -4,5 +4,7 @@ This is an online game contains game lobby, game platform and chat interface. I 
 	This is a version of ChineseChessGame.A Human-Battle Game 
 :blush:
 ![the picture of Game interface](Pic.jpg)
-	This game mainly divided into three parts,including Interface section,Rule section,Engine section.Engine secion use Appha-Beta -Hastable tree to assess the situation.
+	This game mainly divided into three parts,including Interface section.
+	Rule section,Engine section.
+	Engine secion use Appha-Beta -Hastable tree to assess the situation.
 
